@@ -67,7 +67,7 @@ Or using conda:
 conda install pandas numpy pytorch scikit-learn imbalanced-learn lightgbm shap tqdm -c conda-forge
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 NN_Elden_Ring/
@@ -88,7 +88,7 @@ NN_Elden_Ring/
 └── README.md                       # This file
 ```
 
-## 🔧 Usage
+## Usage
 
 ### Step 1: Extract Data
 
